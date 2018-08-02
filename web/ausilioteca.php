@@ -28,17 +28,14 @@
                         <div class="card">
 
                             <div class="header">
-                                <h4 class="title">Ausilioteca</h4>
-                                <p class="category">Virtual tour of the centre's infrastructures</p>
+                                <h4 class="title">Main Floor</h4>
+                                <p class="category">Virtual tour of the house. The tour can be done in two ways: from an aerial perspective and as a virtual visit.</p>
                             </div>
                             <div class="content">
                                 <div class="footer">
                                     <div class="legend">
-                                        <input id="aerialView" class="viewerComponent" name="cameraType" type="radio" style="visibility: hidden;"/>
-                                        <!--i class="fa fa-circle text-info"></i--> Aerial View
-                                        <input id="virtualVisit" class="viewerComponent" name="cameraType" type="radio" style="visibility: hidden;"/>
-                                        <!--i class="fa fa-circle text-danger"></i--> Virtual visit
-                                        <!--<i class="fa fa-circle text-warning"></i> Home-->
+                                        <input id="aerialView" class="viewerComponent" name="cameraType" type="radio" style="visibility: hidden;"/> Aerial View &nbsp;&nbsp;
+                                        <input id="virtualVisit" class="viewerComponent" name="cameraType" type="radio" style="visibility: hidden;"/> Virtual visit
                                         <select id="levelsAndCameras" class="viewerComponent" style="visibility: hidden;"></select>
                                     </div>
                                     <hr>

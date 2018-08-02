@@ -31,8 +31,8 @@
                         <div class="card">
 
                             <div class="header">
-                                <h4 class="title">Drone Mode Path</h4>
-                                <p class="category">Drone Mode Path</p>
+                                <h4 class="title">Aerial view (Drone Mode)</h4>
+                                <p class="category">Virtual tour outside the house from the air</p>
                             </div>
                             <div class="content">
                                 <div id="chartPreferences" class="ct-chart ct-perfect-fourth">
@@ -43,9 +43,9 @@
 
                                 <div class="footer">
                                     <div class="legend">
-                                        <i class="fa fa-circle text-info"></i> Open
-                                        <i class="fa fa-circle text-danger"></i> Bounce
-                                        <i class="fa fa-circle text-warning"></i> Unsubscribe
+                                        <i class="fa fa-circle text-info"></i>
+<!--                                        <i class="fa fa-circle text-danger"></i> -->
+<!--                                        <i class="fa fa-circle text-warning"></i> -->
                                     </div>
                                     <hr>
                                     <div class="stats">
@@ -59,8 +59,8 @@
                     <div class="col-md-6">
                         <div class="card">
                             <div class="header">
-                                <h4 class="title">Ground Floor</h4>
-                                <p class="category">Ground Floor</p>
+                                <h4 class="title">Visit virtual</h4>
+                                <p class="category">Virtual tour inside the house, a user's perspective</p>
                             </div>
                             <div class="content">
                                 <div id="chartHours" class="ct-chart">
@@ -70,9 +70,9 @@
                                 </div>
                                 <div class="footer">
                                     <div class="legend">
-                                        <i class="fa fa-circle text-info"></i> Open
-                                        <i class="fa fa-circle text-danger"></i> Click
-                                        <i class="fa fa-circle text-warning"></i> Click Second Time
+<!--                                        <i class="fa fa-circle text-info"></i> -->
+                                        <i class="fa fa-circle text-danger"></i>
+<!--                                        <i class="fa fa-circle text-warning"></i> -->
                                     </div>
                                     <hr>
                                     <div class="stats">

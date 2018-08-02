@@ -21,7 +21,7 @@
         <li class="<?php if ($act_class == "1") {echo "active";}?>">
             <a href="ausilioteca.php?act=1" title="Ausilioteca Plane">
                 <i class="pe-7s-home"></i>
-                <p>Ausilioteca Floor 1</p>
+                <p>SmartHome: Main Floor</p>
             </a>
         </li>
         <li class="<?php if ($act_class == "2") {echo "active";}?>">
@@ -37,9 +37,9 @@
             </a>
         </li>
         <li class="<?php if ($act_class == "4") {echo "active";}?>">
-            <a href="videos_garden.php?act=4" title="Garden Videos">
+            <a href="videos_garden.php?act=4" title="Outdoor Videos">
                 <i class="pe-7s-video"></i>
-                <p>Garden</p>
+                <p>Outdoor</p>
             </a>
         </li>
     </ul>
