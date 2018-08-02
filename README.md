@@ -1,6 +1,6 @@
 # AIAS - SmartHome
 AIAS - Virtual model of the domotic installations
 
-grasia@fdi.ucm.es
-[https://risewise.eu](RiseWise)
-[https://grasia.fdi.ucm.es/colosaal](ColosAAL)
+- [GRASIA](grasia.fdi.ucm.es)
+- [RiseWise](https://risewise.eu)
+- [ColosAAL](https://grasia.fdi.ucm.es/colosaal)
