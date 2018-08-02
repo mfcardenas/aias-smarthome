@@ -1,6 +1,6 @@
 <!-- Copy the following script to view your home in the previous canvas -->
 <script type="text/javascript">
-    var homeUrl = "PlantabajaAusilioteca9.zip";
+    var homeUrl = "PlantabajaAusilioteca.zip";
     var onerror = function (err) {
         if (err == "No WebGL") {
             alert("Sorry, your browser doesn't support WebGL.");

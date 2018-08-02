@@ -43,7 +43,6 @@
                                         <i class="fa fa-clock-o"></i> Last visit: two hours ago
                                     </div>
                                 </div>
-                                <!-- Copy the following canvas and components in your page, changing their size / texts and other values if needed  -->
                                 <div id="viewerProgressDiv"
                                      style="width: 100%; position: relative; background-color: rgba(128, 128, 128, 0.7); padding: 20px; border-radius: 25px">
                                     <progress id="viewerProgress" class="viewerComponent" value="0" max="200" style="width: 100%"></progress>

@@ -49,7 +49,7 @@
                                     </div>
                                     <hr>
                                     <div class="stats">
-                                        <i class="fa fa-clock-o"></i> Campaign sent 2 days ago
+                                        <i class="fa fa-clock-o"></i> Updated 3 minutes ago
                                     </div>
                                 </div>
                             </div>

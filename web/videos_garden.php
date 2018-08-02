@@ -27,12 +27,24 @@
         <div class="content">
             <div class="container-fluid">
                 <div class="row">
+                    <div class="col-md-12">
+                        <div class="card">
+                            <div class="header">
+                                <h4 class="title">Evaluation and training course for driving skills with electromechanical travel controllers</h4>
+                            </div>
+                        </div>
+                        <div class="content">
+                        </div>
+                    </div>
+                </div>
+                </div>
+                <div class="row">
                     <div class="col-md-6">
                         <div class="card">
 
                             <div class="header">
-                                <h4 class="title">Video of the garden</h4>
-                                <!--<p class="category">Blue Tour of the circuit</p>-->
+                                <h4 class="title">Driving route</h4>
+                                <p class="category">Blue tour of the circuit</p>
                             </div>
                             <div class="content">
                                 <div class="ct-chart ct-perfect-fourth">
@@ -43,13 +55,11 @@
 
                                 <div class="footer">
                                     <div class="legend">
-                                        <i class="fa fa-circle text-info"></i> Blue Tour of the circuit
-                                        <!--<i class="fa fa-circle text-danger"></i> Bounce-->
-                                        <!--<i class="fa fa-circle text-warning"></i> Unsubscribe-->
+                                        <i class="fa fa-circle text-info"></i>
                                     </div>
                                     <hr>
                                     <div class="stats">
-                                        <i class="fa fa-clock-o"></i> Campaign sent 2 days ago
+                                        <i class="fa fa-clock-o"></i> Updated 3 minutes ago
                                     </div>
                                 </div>
                             </div>
@@ -59,20 +69,18 @@
                     <div class="col-md-6">
                         <div class="card">
                             <div class="header">
-                                <h4 class="title">Video of the garden</h4>
-                                <!--<p class="category"></p>-->
+                                <h4 class="title">Driving route</h4>
+                                <p class="category">Yellow tour of the circuit</p>
                             </div>
                             <div class="content">
                                 <div class="ct-chart">
                                     <video class='js-player video' poster="" controls playsinline>
-                                        <source src="videos/video_garden_ausilioteca_blue_tour.mp4" type="video/mp4">
+                                        <source src="videos/video_garden_ausilioteca_yellow_tour.mp4" type="video/mp4">
                                     </video>
                                 </div>
                                 <div class="footer">
                                     <div class="legend">
-                                        <!--<i class="fa fa-circle text-info"></i> Open-->
-                                        <!--<i class="fa fa-circle text-danger"></i>-->
-                                        <i class="fa fa-circle text-yellow"></i> Yellow Tour of the circuit
+                                        <i class="fa fa-circle text-yellow"></i>
                                     </div>
                                     <hr>
                                     <div class="stats">
@@ -89,21 +97,19 @@
                         <div class="card">
 
                             <div class="header">
-                                <h4 class="title">Video of the garden</h4>
-                                <!--<p class="category">Blue Tour of the circuit</p>-->
+                                <h4 class="title">Driving route</h4>
+                                <p class="category">Black tour of the circuit</p>
                             </div>
                             <div class="content">
                                 <div class="ct-chart ct-perfect-fourth">
                                     <video class='js-player video' poster="" controls playsinline>
-                                        <source src="videos/video_garden_ausilioteca_blue_tour.mp4" type="video/mp4">
+                                        <source src="videos/video_garden_ausilioteca_black_tour.mp4" type="video/mp4">
                                     </video>
                                 </div>
 
                                 <div class="footer">
                                     <div class="legend">
-                                        <i class="fa fa-circle text-black"></i> Black Tour of the circuit
-                                        <!--<i class="fa fa-circle text-danger"></i> Bounce-->
-                                        <!--<i class="fa fa-circle text-warning"></i> Unsubscribe-->
+                                        <i class="fa fa-circle text-black"></i>
                                     </div>
                                     <hr>
                                     <div class="stats">
@@ -117,19 +123,17 @@
                     <div class="col-md-6">
                         <div class="card">
                             <div class="header">
-                                <h4 class="title">View in Dron mode</h4>
-                                <!--<p class="category"></p>-->
+                                <h4 class="title">Aerial view (Drone Mode)</h4>
+                                <p class="category">Virtual tour from the air</p>
                             </div>
                             <div class="content">
                                 <div class="ct-chart">
                                     <video class='js-player video' poster="" controls playsinline>
-                                        <source src="" type="video/mp4">
+                                        <source src="videos/video_garden_dron.mp4" type="video/mp4">
                                     </video>
                                 </div>
                                 <div class="footer">
                                     <div class="legend">
-                                        <!--<i class="fa fa-circle text-info"></i> Open-->
-                                        <!--<i class="fa fa-circle text-danger"></i>-->
                                         <i class="fa fa-circle text-danger"></i>
                                     </div>
                                     <hr>
