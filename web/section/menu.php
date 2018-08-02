@@ -19,7 +19,7 @@
     ?>
     <ul class="nav">
         <li class="<?php if ($act_class == "1") {echo "active";}?>">
-            <a href="ausilioteca.php?act=1" title="Ausilioteca Plane">
+            <a href="index.php?act=1" title="Ausilioteca Plane">
                 <i class="pe-7s-home"></i>
                 <p>SmartHome: Main Floor</p>
             </a>
