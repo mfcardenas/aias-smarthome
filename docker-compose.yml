@@ -1,0 +1,12 @@
+version: "2.1"
+services:
+    www:
+        build: .
+        ports: 
+            - "8085:80"
+        volumes:
+            - ./www:/var/www/html/
+        networks:
+            - default
+volumes:
+    persistent:
