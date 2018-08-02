@@ -66,4 +66,5 @@
 </div>
 </body>
 <?php require_once "section/js_footer.php" ?>
+<?php require_once "section/js_sh3d.php" ?>
 </html>
