@@ -9,8 +9,8 @@
 
     <?php require_once "section/header.php" ?>
 
-    <link rel="stylesheet" href="https://cdn.plyr.io/3.2.0/plyr.css"/>
-    <script src="https://cdn.plyr.io/3.2.0/plyr.js"></script>
+    <link rel="stylesheet" href="assets/css/plyr.css"/>
+    <script src="assets/js/plyr.js"></script>
     <script>/*<![CDATA[*/const players = Array.from(document.querySelectorAll('.js-player')).map(player => new Plyr(player));/*]]>*/</script>
 
 </head>
@@ -37,7 +37,7 @@
                         </div>
                     </div>
                 </div>
-                </div>
+
                 <div class="row">
                     <div class="col-md-6">
                         <div class="card">
@@ -47,11 +47,9 @@
                                 <p class="category">Blue tour of the circuit</p>
                             </div>
                             <div class="content">
-                                <div class="ct-chart ct-perfect-fourth">
-                                    <video class='js-player video' poster="" controls playsinline>
-                                        <source src="videos/video_garden_ausilioteca_blue_tour.mp4" type="video/mp4">
-                                    </video>
-                                </div>
+                                <video class='js-player video' poster="" controls playsinline>
+                                    <source src="videos/video_garden_ausilioteca_blue_tour.mp4" type="video/mp4">
+                                </video>
 
                                 <div class="footer">
                                     <div class="legend">
@@ -73,11 +71,9 @@
                                 <p class="category">Yellow tour of the circuit</p>
                             </div>
                             <div class="content">
-                                <div class="ct-chart">
-                                    <video class='js-player video' poster="" controls playsinline>
-                                        <source src="videos/video_garden_ausilioteca_yellow_tour.mp4" type="video/mp4">
-                                    </video>
-                                </div>
+                                <video class='js-player video' poster="" controls playsinline>
+                                    <source src="videos/video_garden_ausilioteca_yellow_tour.mp4" type="video/mp4">
+                                </video>
                                 <div class="footer">
                                     <div class="legend">
                                         <i class="fa fa-circle text-yellow"></i>
@@ -101,11 +97,9 @@
                                 <p class="category">Black tour of the circuit</p>
                             </div>
                             <div class="content">
-                                <div class="ct-chart ct-perfect-fourth">
-                                    <video class='js-player video' poster="" controls playsinline>
-                                        <source src="videos/video_garden_ausilioteca_black_tour.mp4" type="video/mp4">
-                                    </video>
-                                </div>
+                                <video class='js-player video' poster="" controls playsinline>
+                                    <source src="videos/video_garden_ausilioteca_black_tour.mp4" type="video/mp4">
+                                </video>
 
                                 <div class="footer">
                                     <div class="legend">
@@ -127,11 +121,9 @@
                                 <p class="category">Virtual tour from the air</p>
                             </div>
                             <div class="content">
-                                <div class="ct-chart">
-                                    <video class='js-player video' poster="" controls playsinline>
-                                        <source src="videos/video_garden_dron.mp4" type="video/mp4">
-                                    </video>
-                                </div>
+                                <video class='js-player video' poster="" controls playsinline>
+                                    <source src="videos/video_garden_dron.mp4" type="video/mp4">
+                                </video>
                                 <div class="footer">
                                     <div class="legend">
                                         <i class="fa fa-circle text-danger"></i>
@@ -145,11 +137,11 @@
                         </div>
                     </div>
                 </div>
+
             </div>
         </div>
         <?php require_once "section/footer.php" ?>
     </div>
 </div>
 </body>
-<?php require_once "section/js_footer.php" ?>
 </html>

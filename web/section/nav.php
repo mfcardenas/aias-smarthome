@@ -18,29 +18,35 @@
                     </a>
                 </li>
             </ul>
-
+            <?php if (isset($_GET['act']) && ($_GET['act'] == "1" || $_GET['act'] == "2" )) { ?>
             <ul class="nav navbar-nav navbar-right">
-                <!--li class="dropdown">
+                <li class="dropdown">
                       <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                             <p>
-                                Tours in videos
+                                <i class="pe-7s-mouse"></i>
+                                Navigation Controls
                                 <b class="caret"></b>
                             </p>
 
                       </a>
                       <ul class="dropdown-menu">
-                          <li class="divider"></li>
-                          <li><a href="#">Visit 1</a></li>
-                          <li><a href="#">Visit 2</a></li>
-                          <li><a href="#">Visit 3</a></li>
-                          <li><a href="#">Visit 4</a></li>
-                          <li><a href="#">Visit 5</a></li>
-                          <li class="divider"></li>
-                          <li><a href="#">Visit 1</a></li>
+                          <li>&nbsp;&nbsp;</li>
+                          <li>&nbsp;&nbsp;Use the arrow keys</li>
+                          <li>&nbsp;&nbsp;<img src="assets/img/img-key-controls.png" alt="Arrow Keys" title="Arrow Keys" width="125" height="70"/>&nbsp;</li>
+                          <li>&nbsp;&nbsp;</li>
+                          <li>&nbsp;&nbsp;or equivalent keys</li>
+                          <li>&nbsp;&nbsp;</li>
+                          <li>&nbsp;&nbsp;<img src="assets/img/img-key-controls-letters.png" alt="Letter Keys" title="Letter Keys" width="125" height="70"/>&nbsp;</li>
+                          <li>&nbsp;&nbsp;</li>
+                          <li>&nbsp;&nbsp;and the mouse</li>
+                          <li>&nbsp;&nbsp;</li>
+                          <li>&nbsp;&nbsp;<img src="assets/img/img-control-mouse.png" alt="Mouse Computer" title="Mouse Computer" width="125" height="70"/>&nbsp;</li>
+                          <li>&nbsp;&nbsp;</li>
                       </ul>
-                </li-->
+                </li>
                 <li class="separator hidden-lg"></li>
             </ul>
+            <?php } ?>
         </div>
     </div>
 </nav>

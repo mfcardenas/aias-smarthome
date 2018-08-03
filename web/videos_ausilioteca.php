@@ -8,9 +8,9 @@
     <title>AIAS - Bologna Onlus</title>
 
 	<?php require_once "section/header.php" ?>
-
-    <link rel="stylesheet" href="https://cdn.plyr.io/3.2.0/plyr.css"/>
-    <script src="https://cdn.plyr.io/3.2.0/plyr.js"></script>
+    <?php require_once "section/js.php" ?>
+    <link rel="stylesheet" href="assets/css/plyr.css"/>
+    <script src="assets/js/plyr.js"></script>
     <script>/*<![CDATA[*/const players = Array.from(document.querySelectorAll('.js-player')).map(player => new Plyr(player));/*]]>*/</script>
 
 </head>
@@ -29,23 +29,17 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="card">
-
                             <div class="header">
                                 <h4 class="title">Aerial view (Drone Mode)</h4>
                                 <p class="category">Virtual tour outside the house from the air</p>
                             </div>
                             <div class="content">
-                                <div id="chartPreferences" class="ct-chart ct-perfect-fourth">
-                                    <video class='js-player video' poster="" controls playsinline>
-                                        <source src="videos/video_drone_n.mp4" type="video/mp4">
-                                    </video>
-                                </div>
-
+                                <video class='js-player video' poster="" controls playsinline>
+                                    <source src="videos/video_drone_n.mp4" type="video/mp4">
+                                </video>
                                 <div class="footer">
                                     <div class="legend">
                                         <i class="fa fa-circle text-info"></i>
-<!--                                        <i class="fa fa-circle text-danger"></i> -->
-<!--                                        <i class="fa fa-circle text-warning"></i> -->
                                     </div>
                                     <hr>
                                     <div class="stats">
@@ -63,16 +57,12 @@
                                 <p class="category">Virtual tour inside the house, a user's perspective</p>
                             </div>
                             <div class="content">
-                                <div id="chartHours" class="ct-chart">
-                                    <video class='js-player video' poster="" controls playsinline>
-                                        <source src="videos/video_planta_baja_n.mp4" type="video/mp4">
-                                    </video>
-                                </div>
+                                <video class='js-player video' poster="" controls playsinline>
+                                    <source src="videos/video_planta_baja_n.mp4" type="video/mp4">
+                                </video>
                                 <div class="footer">
                                     <div class="legend">
-<!--                                        <i class="fa fa-circle text-info"></i> -->
                                         <i class="fa fa-circle text-danger"></i>
-<!--                                        <i class="fa fa-circle text-warning"></i> -->
                                     </div>
                                     <hr>
                                     <div class="stats">
@@ -89,5 +79,4 @@
     </div>
 </div>
 </body>
-<?php require_once "section/js_footer.php" ?>
 </html>

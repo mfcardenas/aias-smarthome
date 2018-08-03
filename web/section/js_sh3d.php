@@ -1,6 +1,7 @@
 <!-- Copy the following script to view your home in the previous canvas -->
 <script type="text/javascript">
-    var homeUrl = "PlantabajaAusilioteca.zip";
+
+    // var homeUrl = "PlantabajaAusilioteca.zip";
     var onerror = function (err) {
         if (err == "No WebGL") {
             alert("Sorry, your browser doesn't support WebGL.");
@@ -52,4 +53,31 @@
             // selectableCameras: ["Exterior view", "Kitchen"],   // Uncomment to choose the list of displayed cameras, no camera if missing */
             // activateCameraSwitchKey: true                        // Switch between top view / virtual visit with space bar if not false or missing */
         });
+
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+
+        $.notify({
+            icon: 'pe-7s-mouse',
+            message: "Use the <b>Navigation Controls</b> to take the virtual tour."
+        },{
+            type: 'info',
+            timer: 4000
+        });
+
+    });
+</script>
+
+<script type="text/javascript">
+    $(document).ready( function(){
+        $(window).resize( respondCanvas );
+        function respondCanvas(){
+            $('#viewerCanvas').attr('width', $("#content").width() ); //max width
+            $('#viewerCanvas').attr('height', $("#content").height() ); //max height
+        }
+        //Initial call
+        respondCanvas();
+    });
 </script>
