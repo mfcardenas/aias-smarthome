@@ -79,9 +79,29 @@
 
 .video{
     /*margin: 0 auto;*/
-    border: 1px solid #33afff;
+    /*border: 1px solid #33afff;*/
     width: 100%;
     height: 100%;
+}
+
+.bluet {
+    border: 2px solid #33afff; !important;
+}
+
+.rojot {
+    border: 2px solid #cc2127; !important;
+}
+
+.yellowt {
+    border: 2px solid #ffff00; !important;
+}
+
+.blackt {
+    border: 2px solid #000000; !important;
+}
+
+.greent {
+    border: 2px solid #4cae4c;
 }
 
 .text-black{

@@ -47,7 +47,7 @@
                                 <p class="category">Blue tour of the circuit</p>
                             </div>
                             <div class="content">
-                                <video class='js-player video' poster="" controls playsinline>
+                                <video class='js-player video bluet' poster="" controls playsinline>
                                     <source src="videos/video_garden_ausilioteca_blue_tour.mp4" type="video/mp4">
                                 </video>
 
@@ -71,7 +71,7 @@
                                 <p class="category">Yellow tour of the circuit</p>
                             </div>
                             <div class="content">
-                                <video class='js-player video' poster="" controls playsinline>
+                                <video class='js-player video yellowt' poster="" controls playsinline>
                                     <source src="videos/video_garden_ausilioteca_yellow_tour.mp4" type="video/mp4">
                                 </video>
                                 <div class="footer">
@@ -97,7 +97,7 @@
                                 <p class="category">Black tour of the circuit</p>
                             </div>
                             <div class="content">
-                                <video class='js-player video' poster="" controls playsinline>
+                                <video class='js-player video blackt' poster="" controls playsinline>
                                     <source src="videos/video_garden_ausilioteca_black_tour.mp4" type="video/mp4">
                                 </video>
 
@@ -121,7 +121,7 @@
                                 <p class="category">Virtual tour from the air</p>
                             </div>
                             <div class="content">
-                                <video class='js-player video' poster="" controls playsinline>
+                                <video class='js-player video greent' poster="" controls playsinline>
                                     <source src="videos/video_garden_dron.mp4" type="video/mp4">
                                 </video>
                                 <div class="footer">
