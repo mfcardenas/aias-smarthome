@@ -34,7 +34,7 @@
                                 <p class="category">Virtual tour outside the house from the air</p>
                             </div>
                             <div class="content">
-                                <video class='js-player video' poster="" controls playsinline>
+                                <video class='js-player video blues' poster="" controls playsinline>
                                     <source src="videos/video_drone_n.mp4" type="video/mp4">
                                 </video>
                                 <div class="footer">
@@ -57,7 +57,7 @@
                                 <p class="category">Virtual tour inside the house, a user's perspective</p>
                             </div>
                             <div class="content">
-                                <video class='js-player video' poster="" controls playsinline>
+                                <video class='js-player video blues' poster="" controls playsinline>
                                     <source src="videos/video_planta_baja_n.mp4" type="video/mp4">
                                 </video>
                                 <div class="footer">
