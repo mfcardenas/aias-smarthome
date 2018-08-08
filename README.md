@@ -9,7 +9,7 @@ The aim is to be able to use this material to teach users, professionals and oth
 
 This project has the collaboration of:
 
-<table width="75%" style="width: 50%; border: none;">
+<table width="75%" style="width: 75%; border: none;">
 <tr>
     <td><img src="https://github.com/mfcardenas/aias-smarthome/blob/master/web/assets/img/logo-definitivo.png" width="120px" /></td>
     <td><img src="https://github.com/mfcardenas/aias-smarthome/blob/master/web/assets/img/GRASIA_logotipo2B.png" width="120px" /></td>
