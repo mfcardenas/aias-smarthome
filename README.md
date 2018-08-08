@@ -8,9 +8,9 @@ They are not an exact copy of the installations, they are simply a quick prototy
 The aim is to be able to use this material to teach users, professionals and other groups about the different activities carried out in the centre.
 
 This project has the collaboration of:
-<div style="text-align: center;">
-<table width="100%" style="border: none;">
-<tr>
+<div style="display: flex; justify-content: center; width:100%; height:100%;">
+<table style="border: none;">
+<tr style="align-self: center; margin: 0 auto;">
     <td style="padding: 5px;"><img src="https://github.com/mfcardenas/aias-smarthome/blob/master/web/assets/img/logo-definitivo.png" width="120px" /></td>
     <td style="padding: 5px;"><img src="https://github.com/mfcardenas/aias-smarthome/blob/master/web/assets/img/GRASIA_logotipo2B.png" width="120px" /></td>
     <td style="padding: 5px;"><img src="https://github.com/mfcardenas/aias-smarthome/blob/master/web/assets/img/Risewise_Logo.png" width="120px" /></td>
@@ -47,4 +47,7 @@ http://localhost:8086
 If you want to change the port of the application, modify the file <i>"docker-compose.yml"</i> and change the ports in the <i>"ports"</i> section.
 
 ports: (host port: container port)
-- "8086:80"  
+- "8086:80"
+
+<div>
+</div>
