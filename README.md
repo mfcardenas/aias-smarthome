@@ -8,17 +8,16 @@ They are not an exact copy of the installations, they are simply a quick prototy
 The aim is to be able to use this material to teach users, professionals and other groups about the different activities carried out in the centre.
 
 This project has the collaboration of:
-
+<div style="text-align: center;">
 <table width="75%" style="width: 75%; border: none;">
 <tr>
     <td><img src="https://github.com/mfcardenas/aias-smarthome/blob/master/web/assets/img/logo-definitivo.png" width="120px" /></td>
     <td><img src="https://github.com/mfcardenas/aias-smarthome/blob/master/web/assets/img/GRASIA_logotipo2B.png" width="120px" /></td>
-</tr>
-<tr>
     <td><img src="https://github.com/mfcardenas/aias-smarthome/blob/master/web/assets/img/Risewise_Logo.png" width="120px" /></td>
     <td><img src="https://github.com/mfcardenas/aias-smarthome/blob/master/web/assets/img/logo_colosaal.png" width="120px" /></td>
 </tr>
 </table>
+</div>
 
 - [GRASIA](http://grasia.fdi.ucm.es)
 - [AIAS](http://www.aiasbo.it)
