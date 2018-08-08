@@ -11,16 +11,16 @@ This project has the collaboration of:
 <div style="display: flex; justify-content: center; width:100%; height:100%;">
 <table style="border: none;">
 <tr style="align-self: center; margin: 0 auto;">
-    <td style="padding: 5px;"><img src="https://github.com/mfcardenas/aias-smarthome/blob/master/web/assets/img/logo-definitivo.png" width="120px" /></td>
-    <td style="padding: 5px;"><img src="https://github.com/mfcardenas/aias-smarthome/blob/master/web/assets/img/GRASIA_logotipo2B.png" width="120px" /></td>
-    <td style="padding: 5px;"><img src="https://github.com/mfcardenas/aias-smarthome/blob/master/web/assets/img/Risewise_Logo.png" width="120px" /></td>
-    <td style="padding: 5px;"><img src="https://github.com/mfcardenas/aias-smarthome/blob/master/web/assets/img/logo_colosaal.png" width="120px" /></td>
+    <td style="padding: 5px;"><img alt="AIAS Logo" src="https://github.com/mfcardenas/aias-smarthome/blob/master/web/assets/img/logo-definitivo.png" width="120px" /></td>
+    <td style="padding: 5px;"><img alt="GRASIA Logo" src="https://github.com/mfcardenas/aias-smarthome/blob/master/web/assets/img/GRASIA_logotipo2B.png" width="120px" /></td>
+    <td style="padding: 5px;"><img alt="RISEWISE Logo" src="https://github.com/mfcardenas/aias-smarthome/blob/master/web/assets/img/Risewise_Logo.png" width="120px" /></td>
+    <td style="padding: 5px;"><img alt="ColosAAL Logo" src="https://github.com/mfcardenas/aias-smarthome/blob/master/web/assets/img/logo_colosaal.png" width="120px" /></td>
 </tr>
 </table>
 </div>
 
-- [GRASIA](http://grasia.fdi.ucm.es)
 - [AIAS](http://www.aiasbo.it)
+- [GRASIA](http://grasia.fdi.ucm.es)
 - [RiseWise](https://risewise.eu)
 - [ColosAAL](https://grasia.fdi.ucm.es/colosaal)
 
