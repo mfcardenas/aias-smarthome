@@ -1,9 +1,7 @@
 # AIAS - SmartHome
 AIAS - Virtual model of the domotic installations
 
-This repository contains a web application that allows a virtual tour of the AIAS association's facilities in Bologna. The spaces that can be visited are the <i>SmartHome</i> and the outdoor area with the learning circuit.
-
-They are not an exact copy of the installations, they are simply a quick prototype of what the virtual tour could be.
+This repository contains a web application that allows a virtual tour of the AIAS association's facilities in Bologna. The spaces that can be visited are the <i>SmartHome</i> and the outdoor area with the learning circuit. They are not an exact copy of the installations, they are simply a quick prototype of what the virtual tour could be.
 
 The aim is to be able to use this material to teach users, professionals and other groups about the different activities carried out in the centre.
 
